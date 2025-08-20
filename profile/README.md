@@ -1,6 +1,6 @@
 ## Tablero de participación 
 
-<iframe src="https://ca0307-ii-2025.github.io/tablero-de-participacion/#/widget/?search=&sort=groupTitle&sortWithin=title%20dsc&since=2025-08-11T00%3A00%3A00&until=2025-08-20T23%3A59%3A59&timeframe=week&mergegroup=&groupSelect=groupByRepos&breakdown=false&filteredFileName=&chartGroupIndex=0" frameBorder="0" width="800px" height="430px"></iframe>
+https://ca0307-ii-2025.github.io/tablero-de-participacion/?search=&sort=groupTitle&sortWithin=title%20dsc&since=2025-08-11T00%3A00%3A00&until=2025-08-20T23%3A59%3A59&timeframe=week&mergegroup=&groupSelect=groupByRepos&breakdown=false&filteredFileName=&chartGroupIndex=0
 
 <!--
 
