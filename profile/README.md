@@ -3,7 +3,7 @@
 
 https://ca0307-ii-2025.github.io/tablero-de-participacion/
 
-![](https://pagepixels.com/app/screenshots/f131e44e-ea58-4e18-ac7c-c46ba890d63d/embed)
+![]([https://pagepixels.com/app/screenshots/f131e44e-ea58-4e18-ac7c-c46ba890d63d/embed](https://cdn.pagepixels.com/f131e44e-ea58-4e18-ac7c-c46ba890d63d/e17ea64df9158b-1756213399538.png))
 
 <!--
 
